@@ -8,7 +8,7 @@ license = 'MIT'
 rust-version = '1.81.0'
 keywords = ["password", "generator", "security", "random", "vault"]
 categories = ["cryptography", "authentication", "algorithms", "web-programming"]
-repository = "https://github.com/t1ltxz-gxd/vaultkey"
+repository = "https://github.com/tiltful/vaultkey"
 documentation = "https://docs.rs/vaultkey"
 
 [dependencies]
