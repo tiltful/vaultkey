@@ -52,10 +52,10 @@
 	clippy::struct_excessive_bools
 )]
 #![doc(
-	html_logo_url = "https://raw.githubusercontent.com/t1ltxz-gxd/vaultkey/main/assets/images/logo.png"
+	html_logo_url = "https://raw.githubusercontent.com/tiltful/vaultkey/main/assets/images/logo.png"
 )]
 #![doc(
-	html_favicon_url = "https://raw.githubusercontent.com/t1ltxz-gxd/vaultkey/main/assets/images/favicon.png"
+	html_favicon_url = "https://raw.githubusercontent.com/tiltful/vaultkey/main/assets/images/favicon.png"
 )]
 /// Module providing the `PasswordBuilder` for constructing passwords with customizable options.
 pub mod builder;
